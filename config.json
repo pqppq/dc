@@ -1,0 +1,14 @@
+[
+  {
+    "name": "postgres",
+    "url": "postgres://postgres:postgres@localhost:5432/postgres"
+  },
+  {
+    "name": "mysql",
+    "url": "mysql://UserUnko:PassUnko@localhost:1234/unko"
+  },
+  {
+    "name": "splite3",
+    "url": "sqlite3://UserUnko:PassUnko@localhost:1234/unko"
+  }
+]
